@@ -1,0 +1,170 @@
+
+
+
+
+#map_area{
+	width:600px;
+	height:500px;
+	margin:0 auto;
+	position:absolute;
+	
+}
+
+#map_area_link {
+	overflow:hidden;
+	height: 60px;
+}
+#map_area_link li{
+	float:left;
+	width:33%;
+	padding:5px 0;
+}
+#map_area_link li span , #dimension_ul li span{
+	display:inline-block;
+	width:16px;
+	height:16px;
+	vertical-align: middle;
+	background:#dcdcdc;
+	margin:0 10px;
+}
+#map_area_link li a{
+	font-size:12px;
+	
+}
+#table_cvs , #dimension_cvs {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+.content_area{
+	position:relative;
+	padding: 10px 0 0 0;
+	overflow:hidden;
+	
+}
+#dimension_main .content_area{
+	width:80%;
+	margin:0 auto;
+}
+
+#dimension_ul{
+	overflow:hidden;
+	display:none;
+}
+#dimension_ul li{
+	float:left;
+	width:33%;
+}
+#dimension_ul li a{
+	font-size:12px;
+}
+#search_bar{
+	width:90%;
+	height:35px;
+	background:#f3f3f3;
+	color:#999999;
+	overflow:hidden;
+	margin:10px auto;
+	
+}
+#search_bar .search_input{
+	height:35px;
+	line-height:35px;
+	width:200px;
+	padding-left:10px;
+	background:none;
+	float:left;
+	font-size:14px;
+}
+#search_bar .search_btn{
+	width:35px;
+	height:35px;
+	background:url("../../../file/fintestData/images/search_btn.jpg") no-repeat;
+	background-size:cover;
+	float:right;
+}
+#notice_bar{
+	height:40px;
+	border-top:1px solid #eeeeee;
+	overflow:hidden;
+	width:90%;
+	margin:0 auto;
+}
+#notice_bar img{
+	display:block;
+	float:left;
+	height:30px;
+	margin-top: 6px;
+	
+}
+#notice_bar .notice_text{
+	float:left;
+	padding:0 0 0 10px;
+	line-height:40px;
+	font-size: 12px;
+	width: 85%;
+}
+#notice_bar .notice_text li{
+	overflow:hidden;
+	white-space:nowrap;
+	word-break:break-all;
+	text-overflow:ellipsis;
+}
+.select_bar{
+	overflow:hidden;
+	padding:15px 10px;
+}
+.select_bar select{
+	border:1px solid #eeeeee;
+	background:#ffffff;
+	color:#333333;
+	font-size:14px;
+	float:left;
+	width:100px;
+	list-style:none;
+}
+.select_bar span{
+	font-size:14px;
+	float:right;
+}
+
+#area_main , #dimension_main{
+	margin-bottom:20px;
+}
+#companyInfo_list li *{
+	color:#333333;
+}
+#companyInfo_list li{
+	padding:10px;
+	font-size:14px;
+}
+#companyInfo_list li.second{
+	background:#f6f6f6;
+}
+#companyInfo_list .compName_span{
+	width:60%;
+	text-align:left;
+	display:inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

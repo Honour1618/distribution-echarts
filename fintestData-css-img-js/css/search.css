@@ -1,0 +1,39 @@
+
+#main ul{
+	margin:20px 0;
+}
+#main ul li{
+	padding:15px 0;
+	font-size:14px;
+}
+#main ul li.second{
+	background:#f6f6f6;
+}
+#main ul li .name{
+	display:inline-block;
+	width:60%;
+	padding:0 0 0 10px;
+	color:#333333;
+	overflow:hidden;
+	white-space:nowrap;
+	word-break:break-all;
+	text-overflow:ellipsis;
+}
+#main ul li .timer{
+	color:#dcdcdc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

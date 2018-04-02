@@ -1,0 +1,61 @@
+
+
+#main{
+	position:relative;
+}
+#main .content{
+	font-size:14px;
+	line-height:30px;
+	padding:10px 0;
+	text-align: left;
+    width: 300px;
+    margin: 0 auto;
+    color:#666666;
+    position: relative;
+    left: 40px;
+}
+#main .content_ico{
+	position:absolute;
+    top:11px;
+    left: 50%;
+	margin-left: -150px;
+}
+#main .content_ico li{
+	background:url(../images/list_ico.jpg) no-repeat;
+	height:30px;
+	width:30px;
+}
+#myChart{
+	width:100%;
+	margin:15px auto;
+	border-bottom:1px solid #eeeeee;
+	padding:30px 0;
+}
+.wuli_text , .zj_div{
+	text-align:left; 
+	padding:0 30px;
+	margin-bottom:20px;
+	font-size:14px;
+}
+.wuli_text li{
+	margin:10px 0;
+	line-height:24px;
+}
+.content_div{
+	position:relative;
+	height:0;
+	overflow:hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
